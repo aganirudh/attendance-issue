@@ -1,4 +1,0 @@
-numpy>=1.20.0
-
-# Note: This challenge uses only numpy - no PyTorch or TensorFlow!
-# You're building the autograd engine from scratch.
