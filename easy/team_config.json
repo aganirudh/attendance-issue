@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "team_id": "TEAM_01",
+  "grid_config": {
+    "traffic_lights": 3,
+    "cows": 3,
+    "pits": 3
+  }
+}
